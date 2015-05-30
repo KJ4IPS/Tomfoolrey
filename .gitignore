@@ -1,0 +1,6 @@
+minecraft/
+out/
+*.iml
+*.iws
+*.ipr
+.gradle/
